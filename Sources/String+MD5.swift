@@ -27,7 +27,7 @@
 
 
 import Foundation
-import CCommonCrypto
+import CommonCrypto
 
 public struct StringProxy {
     fileprivate let base: String
